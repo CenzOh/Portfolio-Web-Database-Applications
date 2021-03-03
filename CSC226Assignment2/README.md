@@ -1,4 +1,5 @@
 # Assignment 2
+PHP basic\
 part B, create an intro for php in simpl ehtml
 
 part C, create a web page that prints our odd and even numbers 1 to 100 in php using for loop
