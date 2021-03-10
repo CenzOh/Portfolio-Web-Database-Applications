@@ -8,13 +8,13 @@
 		return $str;
 	}
 
-
+	
 	//if(isset($_POST['submit'])){
-	if($_SERVER["REQUEST_METHOD"] !== "POST") {
+	// if($_SERVER["REQUEST_METHOD"] !== "POST") {
 		//redirect the user to the destination
-		header('Location: ../CSC226Assignment3/part1.php'); //brings us back to the form
-		exit(); //terminate our program
-	}
+		// header('Location: ../CSC226Assignment3/part1.php'); //brings us back to the form
+		// exit(); //terminate our program
+	// }
 
 	$errors = []; //empty array
 	//Check if the user click the submit button
@@ -31,7 +31,8 @@
 
 		//redirect the user if there are no errors
 		if(count($errors) == 0){
-			header('Location: welcome.php'); //this is where you will go if info is validated
+			echo("No errors!!");
+			//header('Location: welcome.php'); //this is where you will go if info is validated
 			exit(); //do not keep processing the page!
 		}
 	}

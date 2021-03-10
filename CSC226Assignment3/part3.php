@@ -1,14 +1,16 @@
 <?php //form action redirects to the actual form. Include the handle form here
     // functions include and require used to include html and php files in a php file
 
-    include '../CSC226Assignment3/handle_form.inc.php';
+    //Sign up form
+
+     include '../CSC226Assignment3/handleSignUpForm.inc.php';
 ?>
 
 <!DOCTYPE html> <!-- php form -->
   <html>
 
     <head>
-        <title>Part 1 Assignment 3</title>
+        <title>Part 3 Assignment 3</title>
         
     </head>
 
@@ -27,12 +29,12 @@
     
     <body>
         <div class="container">
-        <form action="../CSC226Assignment3/part1.php" method="POST"> <!--Using HTTP method POST -->
+        <form action="../CSC226Assignment3/part3.php" method="POST"> <!--Using HTTP method POST -->
             <p>
             <div class="title">
             <p> Signup Form
             </div>
-            <p> <!-- handle form processes the data -->
+            <p><!-- handle form processes the data -->
             <label>Username:
 				<input type="text" name="username"
 				value="<?php echo (isset($_POST['username'])) ? $_POST['username'] : '' ?>"> <!-- saves the username -->
