@@ -37,7 +37,7 @@
             echo"<p>Congratulations, you have signed up!</p>"; //success message
             
             // *** append the input into the array ***
-            //check if the user is new (how?)
+            //check if the user is new
 
             $addtoarray = array("username" => $name, "password" => $validpw);
             
