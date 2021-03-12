@@ -30,7 +30,7 @@
         <form action="../CSC226Assignment3/part1.php" method="POST"> <!--Using HTTP method POST -->
             <p>
             <div class="title">
-            <p> Signup Form
+            <p> Simple Form
             </div>
             <p> <!-- handle form processes the data -->
             <label>Username:
