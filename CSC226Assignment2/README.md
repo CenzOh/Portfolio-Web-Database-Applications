@@ -1,6 +1,6 @@
 # Assignment 2
-##PHP basic\
-Part B, create an intro for php in simple html.
+## PHP basic\
+[Part B](https://github.com/CenzOh/Portfolio-Web-Database-Applications/blob/main/CSC226Assignment2/partB.php), create an intro for php in simple html.
 
 Part C, create a web page that prints our odd and even numbers 1 to 100 in php using for loop.
 
