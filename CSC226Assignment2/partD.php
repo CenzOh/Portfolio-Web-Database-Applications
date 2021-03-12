@@ -53,9 +53,13 @@
                   Assignments
                 </a>
                 <div class="dropdown-menu dropdown-info" aria-labelledby="navbarDropdownMenuLink-4">
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partB.php">Assignment 2 Part B</a>
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partC.php">Assignment 2 Part C</a>
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partD.php">Assignment 2 Part D</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partB.php">Intro to PHP</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partC.php">PHP Basic Loop</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partD.php">PHP Basic Array</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part1.php">Simple Form</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part2.php">Log-in Form</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part3.php">Signup Form</a>
                   <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">Coming Soon!</a>
                 </div>
@@ -67,7 +71,7 @@
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    </body>
+</body>
 
     <div class="array"> 
 
