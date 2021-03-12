@@ -1,7 +1,7 @@
 # Assignment 2
-PHP basic\
-part B, create an intro for php in simpl ehtml
+##PHP basic\
+Part B, create an intro for php in simple html.
 
-part C, create a web page that prints our odd and even numbers 1 to 100 in php using for loop
+Part C, create a web page that prints our odd and even numbers 1 to 100 in php using for loop.
 
-part D, php arrays, declare an associative array containing 5 elements, fruit names and calories
+Part D, php arrays, declare an associative array containing 5 elements, fruit names and calories.
