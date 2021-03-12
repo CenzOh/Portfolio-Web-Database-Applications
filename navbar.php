@@ -32,9 +32,13 @@
                   Assignments
                 </a>
                 <div class="dropdown-menu dropdown-info" aria-labelledby="navbarDropdownMenuLink-4">
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partB.php">Assignment 2 Part B</a>
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partC.php">Assignment 2 Part C</a>
-                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partD.php">Assignment 2 Part D</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partB.php">Intro to PHP</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partC.php">PHP Basic Loop</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment2/partD.php">PHP Basic Array</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part1.php">Simple Form</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part2.php">Log-in Form</a>
+                  <a class="dropdown-item" href="/../~mezzio/CSC226Assignment3/part3.php">Signup Form</a>
                   <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">Coming Soon!</a>
                 </div>
