@@ -34,6 +34,7 @@
 
 		//redirect the user if there are no errors
 		if(count($errors) == 0){
+			include "../navbar.php"; //includes the navbar
             echo"<p>Congratulations, you have signed up!</p>"; //success message
             
             // *** append the input into the array ***
