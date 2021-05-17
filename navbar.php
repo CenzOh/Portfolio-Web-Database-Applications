@@ -43,8 +43,7 @@
                   <a class="dropdown-item" href="/../~mezzio/CSC226Assignment4/part1.php">Intro to DB</a>
                   <a class="dropdown-item" href="/../~mezzio/CSC226Assignment4/part2.php">SQL Queries</a>
                   <a class="dropdown-item" href="/../~mezzio/CSC226Assignment4/part3.php">MySQL in PHP</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Coming Soon!</a>
+
                 </div>
               </li>
             </ul>
